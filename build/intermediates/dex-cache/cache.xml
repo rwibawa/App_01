@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/502662077/.android/build-cache/593950bea153f9dc10ff7bc59c1921b6545349a2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/502662077/Documents/workspace_android/App_01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33853276fc32cad8d2ba1b22ec9a6621eb51033c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/502662077/.android/build-cache/6a3738046d0ecb6135afd53ce0097eed3f47fd92/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/502662077/Documents/workspace_android/App_01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f834bf59c734641f9549bcce03a443b6393459b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/502662077/.android/build-cache/b5a24b41e68addd397c2f63d06bffdddef9ca2d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/502662077/Documents/workspace_android/App_01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ef500aadfff80d5d65874b14e3626bc84ef7cf5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/502662077/.android/build-cache/c112114bd6c9cb693da73d7244b2c98caa4a8a02/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/502662077/Documents/workspace_android/App_01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_53a609b7519a408aadf9eba2f131ee925346c477/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/502662077/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/502662077/Documents/workspace_android/App_01/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_f96b4436125288741b58f06aaa1dd54640333642/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/502662077/.android/build-cache/9e881a3158efba55160af402bc3d1fb7a8d42d66/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/502662077/Documents/workspace_android/App_01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b0f86e9b155ba72fd5fdba0bd7112c45279ec88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/502662077/.android/build-cache/de3e67f12e85550ad740b2f5be1f02e85cd41186/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/502662077/Documents/workspace_android/App_01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef63560a487c8564352d8252327912fe59688a90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/502662077/.android/build-cache/aec2a28c6372586001ef1cff3b0d68b6de6139af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/502662077/Documents/workspace_android/App_01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8bc537d826187cb1f7f0390aee4c1ea26d9aadeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/502662077/.android/build-cache/547b167d9bb39e6b1744e8017c7a391a9a7a90eb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/502662077/Documents/workspace_android/App_01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ded7768d788ebc7d48baf917a99be3b7f4ed1331/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/502662077/.android/build-cache/753e8614471c4b0a85809eef795a61d850e70f45/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/502662077/Documents/workspace_android/App_01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b51227b40bba737ad0fb15012fffef2ffcedac2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/502662077/.android/build-cache/63922146a7ccc3f60072659c2ae32d19cc5e5359/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/502662077/Documents/workspace_android/App_01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3189c23345362ff8a52db296c9d20720cdff3903/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/502662077/.android/build-cache/fe854dfa10f9a7a008d531275c375334e20258e0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/502662077/Documents/workspace_android/App_01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_632c0448fc0b7babf01b1f077182c55b86ff665b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/502662077/.android/build-cache/0e703e75942bd0327b18ac3b8305b30ee35f9bab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/502662077/Documents/workspace_android/App_01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6dbe1b67b3f70ca20d575164f3ff48ebdd435077/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/502662077/.android/build-cache/d4f010bd89f2923283bd53794871b01df6a82c29/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/502662077/Documents/workspace_android/App_01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f89c0960f9b131f35818f54e88d47c5312ad7772/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/502662077/Documents/workspace_android/App_01/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/502662077/Documents/workspace_android/App_01/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a3ae3d22aa83024a255a8e55ce05e679ae69aa4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/502662077/Documents/workspace_android/App_01/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9c04000488c1c04e397e2248a4ba2019b9d297fe">
+        <dex dex="/Users/502662077/Documents/workspace_android/App_01/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_67764c3c19fda02d4bc857ee64dec0818dab141c/classes.dex" />
+    </item>
+
+</items>
